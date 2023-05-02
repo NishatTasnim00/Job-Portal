@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"category": "Account & Finance",
+		"emptyPos": "300",
+		"icon": "Image/Icon/accounts 1.svg"
+	},
+	{
+		"id": 2,
+		"category": "Creative Design",
+		"emptyPos": "100",
+		"icon": "Image/Icon/business 1.svg"
+	},
+    {
+			"id": 3,
+			"category": "Marketing & Sales",
+			"emptyPos": "150",
+			"icon": "Image/Icon/social-media 1.svg"
+		},
+    {
+			"id": 4,
+			"category": "Engineering Job",
+			"emptyPos": "300",
+			"icon": "Image/Icon/chip 1.svg"
+		}
+]
